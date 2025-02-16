@@ -1,14 +1,16 @@
 # DB_CoffeShop_Ventas
-
 📊 Análisis de Ventas en Tiendas de Café
 
 **Descripción del Proyecto**
 Este proyecto consiste en analizar las ventas de tres tiendas de café en un Dashboard interactivo en Excel que permite visualizar los patrones de compra por categoría de producto, por tipo de producto y por producto específico para la toma de decisiones.
 
+
 🎯 **Objetivos:**
 * Explorar el comportamiento de las ventas en las tiendas de café.
 * Identificar tendencias en los ingresos y ventas desglosado por mes, día y hora.
 * Optimizar la toma de decisiones mediante un Dashboard con KPIs y gráficos dinámicos.
+
+
 
 **Dashboard📊: Estructura del Proyecto**
 
@@ -45,6 +47,9 @@ El proyecto se ha realizado en las siguientes etapas:
 🛠️ **Herramientas Utilizadas**
 * Microsoft Excel (Tablas dinámicas, gráficos dinámicos, segmentación de datos)
 
+
+
+
 🔍 **Conclusiones y Hallazgos**
 
 **Tendencias de Ventas e Ingresos**
@@ -62,6 +67,8 @@ El proyecto se ha realizado en las siguientes etapas:
 **Top 10 Productos más Vendidos**
 * El producto más vendido es el Blend Clásico.
 * Se observa una gran diferencia en el Top 10 de productos a partir de los que ocupan una posición 6º hacia abajo en número de productos vendidos. Podría significar que la estrategia de ventas está focalizada en 5 productos o que son productos muy buenos en comparación al resto.
+
+
 
 ✒ **Autor**
 * Óscar García Sempere
